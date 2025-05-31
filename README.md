@@ -4,7 +4,7 @@ Un outil en ligne de commande pour analyser des fichiers journaux et générer d
 
 ## Auteur
 
-**Nom :** Yahya Lemkhali  
+**Nom :** Yahya Lemkharbech
 **Login GitHub :** YahyaLem02  
 **Date de création :** 31 mai 2025
 
