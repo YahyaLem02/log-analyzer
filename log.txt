@@ -1,0 +1,10 @@
+2025-05-31 08:13:45 INFO Démarrage du système
+2025-05-31 08:13:46 INFO Chargement des configurations
+2025-05-31 08:13:47 WARNING Configuration partielle détectée
+2025-05-31 08:13:50 ERROR Impossible de se connecter à la base de données
+2025-05-31 08:13:55 INFO Tentative de reconnexion
+2025-05-31 08:14:00 INFO Connexion établie
+2025-05-31 08:14:05 WARNING Performance dégradée
+2025-05-31 08:14:10 ERROR Exception non gérée dans le module auth
+2025-05-31 08:14:15 INFO Nettoyage des ressources
+2025-05-31 08:14:20 INFO Opération terminée

@@ -1,0 +1,14 @@
+RAPPORT D'ANALYSE DE LOGS
+=======================
+
+Fichier analysé: log.txt
+
+STATISTIQUES GÉNÉRALES:
+- Nombre total de lignes: 10
+- Nombre total de mots: 107
+- Nombre total de caractères: 537
+
+ANALYSE DES LOGS:
+- Occurrences de ERROR: 2
+- Occurrences de WARNING: 2
+- Occurrences de INFO: 6
