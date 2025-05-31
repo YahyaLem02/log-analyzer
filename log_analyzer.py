@@ -37,7 +37,7 @@ def analyze_log_file(file_path):
                 report.write(f"- Occurrences de WARNING: {warning_count}\n")
                 report.write(f"- Occurrences de INFO: {info_count}\n")
                 
-            print(f"Analyse terminée. Rapport généré dans 'rapport.txt'")
+            print(f"Analyse terminée. Rapport bien généré dans 'rapport.txt'")
             
     except Exception as e:
         print(f"Une erreur est survenue lors de l'analyse: {e}")
