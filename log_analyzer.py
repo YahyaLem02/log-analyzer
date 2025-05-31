@@ -41,6 +41,8 @@ def analyze_log_file(file_path):
             
     except Exception as e:
         print(f"Une erreur est survenue lors de l'analyse: {e}")
+        
+        
         sys.exit(1)
 
 if __name__ == "__main__":
